@@ -1,0 +1,32 @@
+﻿@model LivroEC_V2.Models.Categoria
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Inserir nova categoria</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" style="padding-bottom: 5px; padding-top: 5px">
+                <label asp-for="CategoriaNome" class="control-label"></label>
+                <input asp-for="CategoriaNome" class="form-control" />
+                <span asp-validation-for="CategoriaNome" class="text-danger"></span>
+            </div>
+            <div class="form-group"style="padding-bottom: 5px; padding-top: 5px">
+                <label asp-for="Descricao" class="control-label"></label>
+                <input asp-for="Descricao" class="form-control" />
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group" style="padding-bottom: 5px; padding-top: 5px">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+                <a class="btn btn-success" asp-action="Index">Voltar à lista</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+

@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LivroEC_V2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LivroEC_V2.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\AcessoNegado2.jpg",
+      "PackagePath": "staticwebassets\\images\\AcessoNegado2.jpg"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\AcessoNegado3.jpg",
+      "PackagePath": "staticwebassets\\images\\AcessoNegado3.jpg"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\AreaAdmin2.jpg",
+      "PackagePath": "staticwebassets\\images\\AreaAdmin2.jpg"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\FaleConosco.png",
+      "PackagePath": "staticwebassets\\images\\FaleConosco.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Livro1.JPG",
+      "PackagePath": "staticwebassets\\images\\Livro1.JPG"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Livro2.JPG",
+      "PackagePath": "staticwebassets\\images\\Livro2.JPG"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Livro3.JPG",
+      "PackagePath": "staticwebassets\\images\\Livro3.JPG"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Login10.png",
+      "PackagePath": "staticwebassets\\images\\Login10.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Login3.png",
+      "PackagePath": "staticwebassets\\images\\Login3.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Login6.png",
+      "PackagePath": "staticwebassets\\images\\Login6.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Login7.png",
+      "PackagePath": "staticwebassets\\images\\Login7.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Login9.png",
+      "PackagePath": "staticwebassets\\images\\Login9.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\Register3.jpg",
+      "PackagePath": "staticwebassets\\images\\Register3.jpg"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\bolha-de-bate-papo.png",
+      "PackagePath": "staticwebassets\\images\\bolha-de-bate-papo.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\carrinho.png",
+      "PackagePath": "staticwebassets\\images\\carrinho.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\carrinho2.png",
+      "PackagePath": "staticwebassets\\images\\carrinho2.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\carrinho3.png",
+      "PackagePath": "staticwebassets\\images\\carrinho3.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\endereco-residencial.png",
+      "PackagePath": "staticwebassets\\images\\endereco-residencial.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\images\\envelope.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\images\\excluir.png",
+      "PackagePath": "staticwebassets\\images\\excluir.png"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Livro_ECommecev2\\LivroEC_V2\\LivroEC_V2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LivroEC_V2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LivroEC_V2.props",
+      "PackagePath": "build\\LivroEC_V2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LivroEC_V2.props",
+      "PackagePath": "buildMultiTargeting\\LivroEC_V2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LivroEC_V2.props",
+      "PackagePath": "buildTransitive\\LivroEC_V2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

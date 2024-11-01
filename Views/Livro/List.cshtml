@@ -1,0 +1,43 @@
+﻿@model LivroListViewModel
+
+@{
+    ViewData["Title"] = "Listagem de Livros";
+}
+
+<div class="text-center" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); max-width: contain">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+</div>
+<hr />
+<br />
+
+<p>
+    <a role="button" class="btn btn-primary" asp-action="Create">Adicionar novo livro</a>
+</p>
+
+<table class="table table-hover" id="table-livros">
+    <thead>
+        <tr>
+            <th scope="col" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)">Título</th>
+            <th scope="col" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)">Preco R$</th>
+            <th scope="col" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)">Categoria</th>
+            <th scope="col" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); padding-left: 60px; ">Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Livros) {
+        <tr>
+                <partial name="_LivroResumo" for="@item"></partial>
+            <td>
+               @* <a role="button" class="btn btn-warning" asp-action="Edit" asp-route-id="@item.LivroId">Editar</a>*@
+                <a role="button" class="btn btn-secondary" asp-action="Details" asp-route-id="@item.LivroId">Detalhes</a>
+               @* <a role="button" class="btn btn-danger" asp-action="Delete" asp-route-id="@item.LivroId">Deletar</a>*@
+                <a role="button" class="btn btn-primary" asp-controller="CarrinhoCompra" asp-action="AdicionarItemDoCarrinhoCompra" asp-route-LivroId="@item.LivroId">Incluir no Carrinho</a>
+            </td>
+        </tr>
+        
+}
+    </tbody>
+</table>
+<div>
+    <p style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)">Total de livros: @ViewBag.TotalDeLivros</p>
+</div>

@@ -1,0 +1,32 @@
+﻿@model LoginViewModel
+
+<table>
+    <tr>
+        <td><img src="~/images/Login10.png"  alt="Login Usuário" width="80" height="60" style="padding: 10px;"/></td>
+        <td>
+            <div class="row">
+                <div class="col-md-12 col-lg-12">
+                    <h4>Login Usuário</h4>
+                    <form asp-controller="Account" asp-action="Login" method="post">
+                        <hr />
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="UserName">Usuário: </label>
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password">Senha: </label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <input type="submit" class="btn btn-success" value="Login In" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>

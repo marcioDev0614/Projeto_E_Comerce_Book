@@ -1,0 +1,20 @@
+﻿@model Livro
+
+<td>
+    @Html.DisplayFor(modelItem => @Model.Titulo)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => @Model.Preco)
+</td>
+@*<td>
+    <img src="~/@Model.CaminhoImagem" alt="Imagem" />
+</td>*@
+@*<td>
+    @Html.DisplayFor(modelItem => @Model.IsLivroPreferido)
+</td>*@
+@*<td>
+    @Html.DisplayFor(modelItem => @Model.EmEstoque)
+</td>*@
+<td>
+  @Html.DisplayFor(modelItem => @Model.Categorias.CategoriaNome)
+</td>

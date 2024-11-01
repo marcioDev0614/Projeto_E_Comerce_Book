@@ -1,0 +1,60 @@
+﻿@model HomeViewModel
+
+@{
+    ViewData["Title"] = "Seja bem vindo!";
+}
+
+<div class="text-primary" id="relogio"></div>
+
+<div class="text-center" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); max-width: contain">
+
+    <h1 style="color: darkorange" class="display-4"><strong>@ViewData["Title"]</strong></h1>
+    <p style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); font-size: 20px">Sistema E-Commerce V2.</p>
+    <p style="color: darkred">Livros em destaque!</p>
+
+    <!-- Componente sendo invocado-->
+    <partial name="_Carousel" />
+ 
+</div>
+<br />
+
+<p style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); font-size: 20px">Os Preferidos da Semana:</p>
+
+<div class="row">
+    @foreach(var livro in Model.LivrosPreferidos)
+    {
+        <div>
+        <partial name="_LivroResumo" for="@livro"/>
+        </div>
+    }
+</div>
+
+<br />
+
+<script>
+    // Função para atualizar o relógio
+    function atualizarRelogio() {
+        var data = new Date();
+
+        // Formatar a hora
+        var horas = data.getHours();
+        var minutos = data.getMinutes();
+        var segundos = data.getSeconds();
+        var horaFormatada = horas.toString().padStart(2, '0') + ':' + minutos.toString().padStart(2, '0') + ':' + segundos.toString().padStart(2, '0');
+
+        // Formatar a data
+        var dia = data.getDate();
+        var mes = data.getMonth() + 1; // Mês é indexado em 0
+        var ano = data.getFullYear();
+        var dataFormatada = dia.toString().padStart(2, '0') + '/' + mes.toString().padStart(2, '0') + '/' + ano;
+
+        // Atualizar o conteúdo da div
+        document.getElementById('relogio').innerHTML = 'Data: ' + dataFormatada + ' - Hora: ' + horaFormatada;
+    }
+
+    // Atualizar o relógio a cada segundo
+    setInterval(atualizarRelogio, 1000);
+
+    // Chamar a função pela primeira vez para exibir o relógio imediatamente
+    atualizarRelogio();
+</script>

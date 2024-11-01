@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LivroEC_V2.Models.Livro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de livros</h1>
+<br />
+<p>
+    <a class="btn btn-primary" asp-action="Create">Adicionar novo</a>
+</p>
+<table class="table" id="lista_livros_adm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DescricaoCurta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categorias)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DescricaoCurta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categorias.CategoriaNome)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LivroId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.LivroId">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.LivroId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
